@@ -1,0 +1,8 @@
+{
+    "_comment": "src/localization/en/translation.json",
+    "demoScope": {
+      "title": "change another language",
+      "description": "Everyone understands me!",
+      "content": "startup"
+    }
+  }

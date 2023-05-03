@@ -1,0 +1,8 @@
+{
+    "_comment": "src/localization/en/translation.json에 있어요.",
+    "demoScope": {
+      "title": "다른 언어로 변경하기",
+      "description": "다 이해했나요 ?",
+      "content": "스타트업"
+    }
+  }
